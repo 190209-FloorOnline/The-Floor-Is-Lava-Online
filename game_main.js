@@ -1,3 +1,3 @@
 function Start(){
-imgs("http://www.baidu.com/","on");
+imgs("http://www.baidu.com/");
 }
